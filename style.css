@@ -1,0 +1,22 @@
+body {
+  font-family: "Arial, sans serif";
+  color: rgb(255, 211, 211);
+  background-color: rgb(255, 240, 240)
+}
+
+h1 {
+  color: rgb(162, 0, 255);
+  text-align: center;
+  font-size: 3em
+}
+
+h2 {
+  color: rgb(150, 13, 204);
+  font-size: 2em
+}
+
+h3 {
+  color: rgb(219, 110, 192);
+  font-size: 1em
+
+}
